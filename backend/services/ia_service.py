@@ -4,7 +4,7 @@ from iso.iso_29100 import ISO_TEXT
 from utils.compare import calculate_similarity
 
 configure(api_key=settings.GEMINI_API_KEY)
-model = GenerativeModel("gemini-pro")
+model = GenerativeModel("gemini-1.5-pro-latest")
 
 def generate_case():
     prompt = f"Con base en el siguiente contenido de la norma ISO/IEC 29100 sobre privacidad, genera un caso práctico: {ISO_TEXT}"
