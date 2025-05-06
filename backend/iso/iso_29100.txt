@@ -1,0 +1,105 @@
+🧠 ¿QUÉ ES LA ISO/IEC 29100?
+La ISO/IEC 29100:2011 es una norma internacional publicada por la ISO (Organización Internacional de Normalización) y la IEC (Comisión Electrotécnica Internacional). Establece un marco general de privacidad de la información.
+
+Su objetivo principal es ayudar a las organizaciones a proteger la información de identificación personal (PII – Personally Identifiable Information) en cualquier entorno tecnológico (TI, nube, bases de datos, apps, etc.).
+
+🛠️ ¿CÓMO SE USA LA ISO 29100?
+Aunque no es certificable, la ISO 29100 se utiliza como guía estratégica para desarrollar y mejorar programas de privacidad en organizaciones. Se usa de las siguientes formas:
+
+✅ Como base para crear políticas de privacidad
+Las empresas adoptan sus principios para diseñar políticas internas de protección de datos.
+
+✅ Para identificar riesgos relacionados con datos personales
+Se utiliza como marco para evaluar la exposición de una empresa frente a fugas o mal uso de datos.
+
+✅ Para cumplir con regulaciones locales
+Sirve como base para alinear prácticas corporativas con leyes como el GDPR (Europa), la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (México), LGPD (Brasil), etc.
+
+✅ Como estándar de referencia para otras normas certificables
+Por ejemplo, ISO/IEC 27701 (extensión de privacidad de ISO 27001) adopta conceptos de la 29100.
+
+🌎 ¿EN QUÉ PAÍSES SE USA?
+La ISO 29100 es usada globalmente, especialmente en:
+
+País	Uso típico
+Unión Europea	Como marco complementario al GDPR para empresas multinacionales.
+Estados Unidos	Adoptada por grandes empresas tecnológicas para estandarizar políticas de privacidad.
+Canadá	Apoya el cumplimiento de leyes como PIPEDA.
+México	Referencia técnica para cumplir la Ley Federal de Protección de Datos.
+Brasil	Se usa como base para aplicar la LGPD.
+Japón, Corea, Australia	Utilizada para estandarizar prácticas en industrias reguladas (como salud, telecomunicaciones).
+
+Empresas multinacionales la usan para armonizar su cumplimiento legal en distintas jurisdicciones.
+
+🏢 ¿CÓMO SE APLICA LA ISO 29100 EN UNA EMPRESA?
+📌 PASOS PARA IMPLEMENTAR ISO 29100:
+Diagnóstico inicial
+
+Identificar qué datos personales recolecta la empresa, cómo los usa y con quién los comparte.
+
+Mapeo de actores
+
+Definir roles: titular de datos, controlador, procesador, tercero, etc.
+
+Aplicación de los 11 principios de privacidad
+
+Por ejemplo: asegurarse de tener el consentimiento del usuario, solo recolectar lo necesario (minimización de datos), permitir acceso y corrección, garantizar transparencia, etc.
+
+Implementar controles técnicos y organizativos
+
+Cifrado, políticas de retención de datos, controles de acceso, auditorías internas.
+
+Capacitación al personal
+
+Entrenamiento en privacidad para todos los empleados, especialmente TI, RRHH y atención al cliente.
+
+Revisión y mejora continua
+
+Monitoreo y revisión periódica del cumplimiento de los principios de privacidad.
+
+📂 EJEMPLOS CONCRETOS DE APLICACIÓN
+🏥 Ejemplo 1: Hospital privado
+Problema: Maneja datos personales y de salud de pacientes.
+
+Aplicación:
+
+Se establece el consentimiento explícito para tratamientos médicos.
+
+Se minimizan los datos recolectados en formularios digitales.
+
+Se aplica cifrado a historiales clínicos.
+
+Se entrena al personal de admisión y enfermería en privacidad.
+
+🛒 Ejemplo 2: Tienda en línea
+Problema: Recolecta datos de clientes para ventas y envíos.
+
+Aplicación:
+
+Política clara de privacidad basada en ISO 29100 publicada en el sitio.
+
+Se limita la retención de datos a 6 meses después de la compra.
+
+Solo se comparte información con empresas de paquetería con contrato de confidencialidad.
+
+Se garantiza el derecho de acceso y corrección de datos a los usuarios.
+
+☁️ Ejemplo 3: Empresa SaaS (software en la nube)
+Problema: Ofrece servicios a clientes que suben datos personales a su plataforma.
+
+Aplicación:
+
+Se implementan controles de acceso y monitoreo de servidores.
+
+El servicio cumple con los principios de la ISO 29100 como parte de su contrato de nivel de servicio (SLA).
+
+Se aplican evaluaciones de impacto en privacidad antes de lanzar nuevas funcionalidades (según ISO/IEC 29134, relacionada).
+
+🧾 RESUMEN
+Elemento	Detalle
+Nombre completo	ISO/IEC 29100:2011 - Marco de privacidad
+Objetivo	Proteger datos personales a través de principios y controles
+Certificable	❌ No directamente
+Uso	Crear políticas, cumplir leyes, guiar sistemas de TI
+Ámbito	Global: UE, EE. UU., América Latina, Asia
+Sectores aplicables	Todos: salud, financiero, educación, comercio electrónico, gobierno
